@@ -1,0 +1,19 @@
+{
+  "name": "postman-clonejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
